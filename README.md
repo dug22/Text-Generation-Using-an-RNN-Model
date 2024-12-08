@@ -9,6 +9,7 @@ Our model achieved an accuracy of 98.75% in predicting the next set of character
 
 # Visualization of Our Model's Evaluation
 Our model was capable of generating the full phrase "pennies are shiny" just from the word "pen".
+![Untitled](https://github.com/dug22/Text-Generation-Using-an-RNN-Model/blob/main/images/text_generation_graph.png?raw=true)
 
 # Download & Learning
 Feel free to download the notebook if you want to explore more about RNN models and their ability to handle sequential data.
