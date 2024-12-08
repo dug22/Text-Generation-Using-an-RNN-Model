@@ -7,7 +7,7 @@ Our dataset consisted of an array of phrases, which served as input for training
 # Accuracy of Our Model
 Our model achieved an accuracy of 98.75% in predicting the next set of characters to generate, demonstrating its ability to fully generate complete text from a given starting character, word, or phrase. 
 
-# Visualization of Our Model
+# Visualization of Our Model's Evaluation
 Our model was capable of generating the full phrase "pennies are shiny" just from the word "pen".
 
 # Download & Learning
