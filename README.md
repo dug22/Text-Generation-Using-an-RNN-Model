@@ -1,5 +1,5 @@
 # Introduction 
-In this project I built a recurrent neural network model in Python using TensorFlow/Keras to work with a dataset of phrases for testing if it can remember long phrases. This notebook goes over the fundamenals of how Recurrent Neural Networks work, and see how it handles sequential data.
+In this project I built a recurrent neural network model in Python using TensorFlow/Keras to work with a dataset of phrases to test if it can remember long phrases. This notebook goes over the fundamenals of how Recurrent Neural Networks work, and how Recurrent Neural Networks can handle sequential data.
 
 # Dataset
 Our dataset consisted of an array of phrases, which served as input for training our RNN model. However, the dataset required preprocessing and modifications to make it suitable for training.
